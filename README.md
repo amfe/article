@@ -9,3 +9,6 @@
 - [高级CSS filters](https://github.com/amfe/article/issues/9)
 - [Font Boosting](https://github.com/amfe/article/issues/10)
 - [15年双11手淘前端技术巡演 - 前言](https://github.com/amfe/article/issues/11)
+
+
+![AMFE博客](http://www.w3cplus.com/sites/default/files/blogs/2015/1511/amfe.jpg "AMFE博客")
